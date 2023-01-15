@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jil.
+- 👋 Hi there!
 - 👀 I’m interested in Data Analytics, Data Science and Machine Learning.
 - 🌱 I’m currently studying Master's degree in Software Engineering. 
 - 💞️ I’m looking to collaborate on various projects in Data Science.
